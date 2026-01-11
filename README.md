@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Khan 👋
 
-<!--
-**M-Khan13/M-Khan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about building clean, functional, and scalable software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build web applications with focus on usability and performance  
+- Work on backend APIs and system logic  
+- Explore Machine Learning and applied AI projects  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C++, JavaScript, Python  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Figma  
+
+---
+
+## 📌 Currently
+- Learning backend architecture & API design  
+- Improving DSA for placements  
+- Building real-world, problem-driven projects  
+
+---
+
+## 📂 Featured Work
+- MCQ-based learning platform with multiplayer support  
+- Smart expense & finance tracking app  
+- Timetable generation system based on constraints  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: your-link-here  
+- Email: yourmail@example.com  
+
+---
+
+> *I enjoy turning ideas into simple, usable products.*
