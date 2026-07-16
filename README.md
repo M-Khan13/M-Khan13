@@ -57,6 +57,6 @@ Document question-answering built from scratch — no LangChain, no LlamaIndex, 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Khan13&show_icons=true&hide_border=true&hide_title=true&theme=transparent&hide=issues&text_color=808080&icon_color=2EA043" alt="GitHub stats" height="150">
-</p>
+</p> -->
