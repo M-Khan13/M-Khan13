@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack engineer who builds AI features that actually work.<br>
-  Currently shipping open-source at <b>IIT Bbbombay</b>.
+  Currently shipping open-source at <b>IIT Bombay</b>.
 </p>
 
 <p align="center">
