@@ -12,7 +12,7 @@
   <a href="mailto:farzankhan1800@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/Available_to_join-full--time_now-2EA043?style=flat-square" alt="Available">
+  <!-- <img src="https://img.shields.io/badge/Available_to_join-full--time_now-2EA043?style=flat-square" alt="Available"> -->
 </p>
 
 ---
