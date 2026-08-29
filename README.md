@@ -1,7 +1,7 @@
 <h1 align="center">Mohd Farzan Khan</h1>
 
 <p align="center">
-  Full-stack engineer who builds AI features that actually work.<br>
+  Full-stack engineer who builds aaplication with AI features that actually work.<br>
   Currently shipping open-source at <b>IIT Bombay</b>.
 </p>
 
